@@ -28,6 +28,11 @@ a {
   color:#a6a6a6;
   font-size: 15pt
 }
+a.small {
+  text-decoration: underline;
+  color:#a6a6a6;
+  font-size: 10pt
+}
 a:hover {
   text-decoration: underline;
   color:white;
